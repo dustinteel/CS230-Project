@@ -1,0 +1,44 @@
+Interview Questions
+Team: Hackslash
+Date: 09/23/2015
+Time: 3:20PM-3:55PM
+
+Stakeholder: Provost
+1.	What is the current system used for voting?
+a.	Why are you requesting the new system?  What do you hope it will do for you that your current system does not?
+2.	What will the critical times for the system be?  Should it be available 24/7/365, or are there times it can be down for maintenance?
+3.	Other than Student Government, which other Student Organization will have permission to access the system?
+a.	How can these student organizations request access to the system?  Will they put in a request, or will all accounts be generated in advanced, etc.?  Can anybody sign up to use the system?
+4.	If requests can be put in, which organizations will automatically have access to the system?
+5.	Who will input the ballots?  Individual organizations, or will all ballots be input by the Office of the Provost?  How will the eligibility of candidates be determined?  Will they need to be approved by individual organizations, or will there be a set list?
+6.	Will the system need to handle nominations, or will it only handle the final elections?
+7.	What office will provide the API for our software to interface with for validation of student logins and class registration?
+8.	What happens if the voter logs out of the ballot without voting?  Will they be allowed to vote later?
+9.	Will the ballot order be random, or will it be selected in advance?
+10.	In the election reports, what statistics will be needed other than the number of votes for each candidate?
+11.	Will there need to be real time voting results, or will all results be generated at the end of the election?
+a.	If so, who can access them?
+12.	Will all elections be majority elections, or will there be a need to change the requirements to determine who wins?  Will there be runoff elections?
+13.	Who will be allowed to access the system other than candidates, university admins, student organizations, and voters?  Will any information need to be public?  Will the ballot be public?
+14.	How will the length of time votes are allowed be determined?
+15.	Would you like the system to be able to display additional information about candidates, like a profile.  If so, what information should be shown and how will it be entered?
+
+Stakeholder: Student Government President
+1.	In the election reports, what statistics will be needed other than the number of votes for each candidate?
+2.	Will the system need to handle parties?  If so, are independents allowed?
+3.	Would you want to allow students to vote straight party ticket?
+4.	How would you like to submit your ballot to the system?  Ex. Though the provost or Director of Student Orgs, or Provost, or would you like to input them directly into the system.?
+5.	Would you like the system to be able to display additional information about candidates?
+a.	If so, what information?  How would the information be entered into the system?
+
+Stakeholder: Undergraduate Student Voter
+1.	Would you like a mobile web page, or an app you can download to vote?
+2.	Would you like to see real time results?
+3.	What times are you most likely and least likely to access the system?
+
+Stakeholder: Undergraduate Student Government Candidate
+1.	Would you like to be able to display additional information about yourself on the system?
+2.	Would you like to display a picture of yourself on the ballot beside your name?
+3.	Would you like to see real time results?
+4.	What other features would you like to see for candidates?
+
