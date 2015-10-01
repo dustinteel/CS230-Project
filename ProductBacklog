@@ -1,0 +1,169 @@
+Product Backlog 
+
+    Input/Edit Ballot Information 
+
+    Election Commissioner 
+
+    Election Date and Time 
+
+    Number of Candidates 
+
+    Eligibility Requirements for Voters 
+
+    Class Rank 
+
+    College 
+
+    Candidate Names 
+
+    Candidate Parties (if applicable) 
+
+    Vote 
+
+    Student 
+
+    Choose Election 
+
+    Choose candidate for each office within election or straight party, if applicable 
+
+    Submit ballot 
+
+    Get Election Results and Reports 
+
+    Election Commissioner 
+
+    Overall votes 
+
+    Votes by Demographic 
+
+    Male/Female 
+
+    Class Rank 
+
+    College/School 
+
+    Hard copy of voting log 
+
+    Head of Student Organizations 
+
+    Overall votes 
+
+    Votes by Demographic 
+
+    Male/Female 
+
+    Class Rank 
+
+    College/School 
+
+    Hard copy of voting log 
+
+    Display Ballot 
+
+    General Public 
+
+    Select Election 
+
+    Ballot Displayed 
+
+    Link to Candidate Pages 
+
+    Display Election Results 
+
+    General Public 
+
+    Select Finished Election 
+
+    Results Displayed 
+
+    Input Candidate Information 
+
+    Election Commissioner 
+
+    Short Candidate Bio 
+
+    Candidate Picture 
+
+    Short Candidate Platform 
+
+    Input Election Commissioners 
+
+    Head of Student Organization 
+
+    Credentials of Election Commissioner 
+
+    Elections to Manage 
+
+    Disqualify Vote 
+
+    Election Commissioner 
+
+    Student ID Number of Vote to Disqualify 
+
+    Head of Student Organizations 
+
+    Student ID Number of Vote to Disqualify 
+
+    Interfaces 
+
+    OIT Authorization 
+
+    Student Voter 
+
+    Vote 
+
+    Election Commissioner 
+
+    Input Ballot 
+
+    Edit Ballot 
+
+    Input Candidate Information 
+
+    Edit Candidate Information 
+
+    View Reports 
+
+    Disqualify Votes 
+
+    Head of Student Organizations 
+
+    Input Election Commissioners 
+
+    Get Reports 
+
+    Disqualify Votes 
+
+    General Public 
+
+    View Ballots 
+
+    View Candidate Information 
+
+    View Election Results 
+
+    Locations 
+
+    Any Device that can Access the Internet 
+
+    User Authentication 
+
+    Login to Vote 
+
+    OIT authenticates students 
+
+    Student Records sends student information 
+
+    Use student information to verify voting permissions 
+
+    Login to Manage Elections 
+
+    OIT authenticates commissioners 
+
+    App checks commissioner permissions 
+
+    Login to Manage Election Commissioners 
+
+    OIT authenticates Head of Student Orgs 
+
+    App checks permissions 
